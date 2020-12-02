@@ -1,6 +1,11 @@
 # Deep-Learning-Based-Image-Classifier
 
-In this Project we will Build a Deep Learning Based Image Classifier with R.
+In this Project we will Build a Deep Learning Based Image Classifier with R. We are going to focus on two learning objectives:
+
+1 - Solve a basic image classification problem with neural networks
+2 - Use the Keras Interface to R to build a neural network
+
+To chieve this, we will have used the R programming language to build, train, and evaluate a neural network model to classify images of clothing items into categories such as t-shirts, trousers, and sneakers.
 
 The project is divided into the following tasks:
 
